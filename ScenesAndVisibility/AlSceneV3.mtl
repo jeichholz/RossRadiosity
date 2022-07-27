@@ -1,0 +1,31 @@
+# Exported from 3D Builder
+
+newmtl black_0
+Kd 0.002000 0.002000 0.002000
+
+newmtl white_0
+Kd 1.000000 1.000000 1.000000
+
+newmtl dkgrey_0
+Kd 0.024500 0.024500 0.024500
+
+newmtl dkblue_pure_0
+Kd 0.000000 0.000000 0.134700
+
+newmtl skin_0
+Kd 0.976600 0.902300 0.851600
+
+newmtl fldkred_0
+Kd 0.228600 0.008200 0.008200
+
+newmtl brown_0
+Kd 0.085700 0.014700 0.000000
+
+newmtl brnhair_0
+Kd 0.089800 0.030200 0.011000
+
+newmtl deepgreen_0
+Kd 0.000000 0.020400 0.005000
+
+newmtl Default_0
+Kd 0.737255 0.737255 0.737255
